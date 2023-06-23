@@ -18,6 +18,4 @@ This project is part of the["Start na Programação" (or a _QuickStart to progra
 
 See it [HERE](https://samylecarvalho.github.io/tip-calculator/).
 
-<br>
-
 ---
