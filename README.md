@@ -4,9 +4,9 @@
 
 ## Project
 
-This project is part of the["Start na Programação" (QuickStart to programming_)](http://start.onebitcode.com/) offered by [OneBitCode](https://onebitcode.com/lp/).
+This project is part of the["Start na Programação"](http://start.onebitcode.com/) (QuickStart to programming) offered by [OneBitCode](https://onebitcode.com/lp/).
 
-Tip calculator allows users to calculate the tip amount and the total bill amount based on the service quality and the number of people sharing the bill.
+Tip calculator allows users to calculate the tip amount and the total bill amount based on the quality of the service and the number of people sharing the bill.
 
 ## Technologies used
 
